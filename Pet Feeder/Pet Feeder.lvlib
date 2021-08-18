@@ -15,6 +15,7 @@
 			<Item Name="Read Schedule File.vi" Type="VI" URL="../SubVIs/data/Read Schedule File.vi"/>
 		</Item>
 		<Item Name="Add Seconds.vi" Type="VI" URL="../SubVIs/Add Seconds.vi"/>
+		<Item Name="Elapsed Time.vi" Type="VI" URL="../SubVIs/Elapsed Time.vi"/>
 		<Item Name="Feeder State Machine.vi" Type="VI" URL="../SubVIs/Feeder State Machine.vi"/>
 		<Item Name="Format Time.vi" Type="VI" URL="../SubVIs/Format Time.vi"/>
 		<Item Name="Limit Servings.vi" Type="VI" URL="../SubVIs/Limit Servings.vi"/>
@@ -29,6 +30,5 @@
 		<Item Name="state.ctl" Type="VI" URL="../Types/state.ctl"/>
 		<Item Name="state_machine_event.ctl" Type="VI" URL="../Types/state_machine_event.ctl"/>
 	</Item>
-	<Item Name="Elapsed Time.vi" Type="VI" URL="../SubVIs/Elapsed Time.vi"/>
 	<Item Name="Pet Feeder.vi" Type="VI" URL="../Pet Feeder.vi"/>
 </Library>
