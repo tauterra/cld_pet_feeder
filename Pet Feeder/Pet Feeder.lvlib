@@ -14,9 +14,21 @@
 			<Item Name="Data File Path.vi" Type="VI" URL="../SubVIs/data/Data File Path.vi"/>
 			<Item Name="Read Schedule File.vi" Type="VI" URL="../SubVIs/data/Read Schedule File.vi"/>
 		</Item>
+		<Item Name="Add Seconds.vi" Type="VI" URL="../SubVIs/Add Seconds.vi"/>
+		<Item Name="Feeder State Machine.vi" Type="VI" URL="../SubVIs/Feeder State Machine.vi"/>
 		<Item Name="Format Time.vi" Type="VI" URL="../SubVIs/Format Time.vi"/>
+		<Item Name="Limit Servings.vi" Type="VI" URL="../SubVIs/Limit Servings.vi"/>
 		<Item Name="Parse Time.vi" Type="VI" URL="../SubVIs/Parse Time.vi"/>
+		<Item Name="Round Time Down.vi" Type="VI" URL="../SubVIs/Round Time Down.vi"/>
+		<Item Name="Schedule List.vi" Type="VI" URL="../SubVIs/Schedule List.vi"/>
+		<Item Name="Schedule Modify.vi" Type="VI" URL="../SubVIs/Schedule Modify.vi"/>
 	</Item>
-	<Item Name="Types" Type="Folder"/>
+	<Item Name="Types" Type="Folder">
+		<Item Name="app_event.ctl" Type="VI" URL="../Types/app_event.ctl"/>
+		<Item Name="internal_state_data.ctl" Type="VI" URL="../Types/internal_state_data.ctl"/>
+		<Item Name="state.ctl" Type="VI" URL="../Types/state.ctl"/>
+		<Item Name="state_machine_event.ctl" Type="VI" URL="../Types/state_machine_event.ctl"/>
+	</Item>
+	<Item Name="Elapsed Time.vi" Type="VI" URL="../SubVIs/Elapsed Time.vi"/>
 	<Item Name="Pet Feeder.vi" Type="VI" URL="../Pet Feeder.vi"/>
 </Library>
